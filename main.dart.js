@@ -15772,7 +15772,7 @@ return P.a7($async$t9,r)},
 t8:function(a,b){var s=0,r=P.a8(t.N),q,p,o,n,m
 var $async$t8=P.a3(function(c,d){if(c===1)return P.a5(d,r)
 while(true)switch(s){case 0:s=3
-return P.a4(G.aqh(P.v4("http://www.whateverorigin.org/get?url=http://numbersapi.com/"+C.f.i(a)+"/"+b)),$async$t8)
+return P.a4(G.aqh(P.v4("https://api.allorigins.win/get?url=http://numbersapi.com/"+C.f.i(a)+"/"+b)),$async$t8)
 case 3:p=d
 o=B.aq9(U.aom(p.e).c.a.h(0,"charset")).d3(0,p.x)
 n=C.f.i(a)
